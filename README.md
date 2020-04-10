@@ -14,3 +14,5 @@ The dection for the note was by a pitch detection JavaScript API. However, it wa
 
 Nowaday it's possible to use machine-learning to improve the detection:
 https://www.youtube.com/watch?v=-1QGEQWhmSI
+P5.js: https://www.youtube.com/watch?v=F1OkDTUkKFo
+https://magenta.tensorflow.org/onsets-frames
