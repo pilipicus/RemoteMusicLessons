@@ -12,7 +12,8 @@ DEVELOPMENT
 This project is based on the concept I worked on years ago for an hackathon: https://www.youtube.com/watch?v=u5u1JmdiY98&t=101s
 The dection for the note was by a pitch detection JavaScript API. However, it wasn't that precised.
 
-Nowaday it's possible to use machine-learning to improve the detection:
-https://www.youtube.com/watch?v=-1QGEQWhmSI
-P5.js: https://www.youtube.com/watch?v=F1OkDTUkKFo
-https://magenta.tensorflow.org/onsets-frames
+Nowaday it's possible to use machine-learning to improve pitch detection:
+TensorFlow + AudioInputs (YouTube) - https://www.youtube.com/watch?v=-1QGEQWhmSI
+P5.js: https://learn.ml5js.org/docs/#/reference/pitch-detection
+P5.js - YouTube:https://www.youtube.com/watch?v=F1OkDTUkKFo
+Onsets and Frames: Dual-Objective Piano Transcription: https://magenta.tensorflow.org/onsets-frames
